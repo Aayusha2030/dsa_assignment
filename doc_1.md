@@ -6,7 +6,7 @@ This program checks whether a mathematical expression has balanced parentheses. 
 ---
 
 ## 2. Data Structures Used : Stack  
-```c
+
 typedef struct Stack {
     int top;
     char elements[MAX];
@@ -17,7 +17,7 @@ Here, top: stores the index of the top element in the stak.
 elements[MAX]: array to store characters ((, [, {).
 
 The stack follows LIFO (Last In, First Out), which is suitable for matching parentheses.
----
+
 
  3. Purpose :
 
@@ -26,7 +26,7 @@ To determine if each opening bracket in an expression has a corresponding closin
 Supports all three types of brackets: (), [], {}.
 
 Provides a modular solution using separate functions for stack operations and matching logic.
----
+
 
 4. Functions Implemented: 
 
@@ -65,7 +65,7 @@ Pops and matches for closing brackets.
 Returns 0 immediately if mismatch or unmatched closing bracket found.
 
 Returns 1 if all brackets match and stack is empty at the end. 
----
+
 
  5. Main Method Organization
 
@@ -76,7 +76,7 @@ Loops through each expression and calls checkBalanced().
 Prints whether each expression is Balanced or Unbalanced.
 
 Demonstrates the correctness of the stack-based approach.
----
+
  6. Sample Output
 Parentheses Balance Checker
 
