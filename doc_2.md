@@ -1,4 +1,4 @@
-# Infix to Postfix Conversion and Evaluation Program
+# Qn 2: Infix to Postfix Conversion and Evaluation Program
 ## Overview
 This C program converts a **mathematical expression** in **infix notation** (e.g., `3+4*2`) to **postfix notation** (Reverse Polish Notation, e.g., `342*+`) and then **evaluates** the postfix expression to calculate the result.  
 
