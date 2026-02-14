@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdbool.h>
-
 long long totalComp = 0;     // total comparisons ganna
 long long totalMoves = 0;    // total swaps/moves ganna
 // counters reset garna
