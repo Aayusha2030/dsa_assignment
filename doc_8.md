@@ -1,4 +1,4 @@
-# Program 8: Sorting Algorithms Performance Analyzer  
+# Qn 8: Sorting Algorithms Performance Analyzer  
 
 ## Overview  
 
