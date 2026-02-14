@@ -9,7 +9,7 @@ The main focus of the program is to:
 - Implement **reverse traversal** using recursion
 - Demonstrate traversal with a simple list in `main()`
 
----
+
 
 ## 2. Data Structure Used
 **Singly Linked List Node**
