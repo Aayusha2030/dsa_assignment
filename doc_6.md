@@ -9,6 +9,7 @@ The main focus of the program is to:
 - Build a Max Heap where the parent is larger than children
 - Demonstrate heap construction with an example array in main()
 
+
 ## 2. Data Structure Used
 
 Array-based Heap Representation
