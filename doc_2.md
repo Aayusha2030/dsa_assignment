@@ -4,6 +4,7 @@ This C program converts a **mathematical expression** in **infix notation** (e.g
 
 The program uses a **stack data structure** to handle operators, parentheses, and operator precedence.
 
+
 ## Features
 - Handles operators: `+`, `-`, `*`, `/`, `^` (exponentiation)
 - Handles parentheses `(` and `)`
